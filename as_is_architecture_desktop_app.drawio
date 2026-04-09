@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="wfEMRermHBQNL7fdqZVe">
+    <mxGraphModel dx="774" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ymgu2D3F0B_NWa5t31f8-4" edge="1" parent="1" source="Ymgu2D3F0B_NWa5t31f8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="Ymgu2D3F0B_NWa5t31f8-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ymgu2D3F0B_NWa5t31f8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Desktop application UI" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ymgu2D3F0B_NWa5t31f8-5" edge="1" parent="1" source="Ymgu2D3F0B_NWa5t31f8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="Ymgu2D3F0B_NWa5t31f8-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ymgu2D3F0B_NWa5t31f8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Business layer" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ymgu2D3F0B_NWa5t31f8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Database" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UI0vikO3bvq4OHQO-4IN">
+    <mxGraphModel dx="774" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eqWg9-wSSRilkQsTDldz-1" edge="1" parent="1" source="eqWg9-wSSRilkQsTDldz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="eqWg9-wSSRilkQsTDldz-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqWg9-wSSRilkQsTDldz-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Web application UI" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqWg9-wSSRilkQsTDldz-3" edge="1" parent="1" source="eqWg9-wSSRilkQsTDldz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="eqWg9-wSSRilkQsTDldz-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqWg9-wSSRilkQsTDldz-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Business layer" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="eqWg9-wSSRilkQsTDldz-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Database" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="eqWg9-wSSRilkQsTDldz-6" edge="1" parent="1" source="eqWg9-wSSRilkQsTDldz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="eqWg9-wSSRilkQsTDldz-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqWg9-wSSRilkQsTDldz-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="REST API" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
